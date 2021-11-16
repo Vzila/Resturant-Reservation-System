@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "147431559675",
+    "firebase_url": "https://rrs1-c1267-default-rtdb.firebaseio.com",
+    "project_id": "rrs1-c1267",
+    "storage_bucket": "rrs1-c1267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147431559675:android:bdeb101ece1a93d46cfb5e",
+        "android_client_info": {
+          "package_name": "com.rrs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147431559675-u08ov51blgqqflhl8k02hfvifjebv7m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClSy6zEQcV_YXbjKkEpD32I7tdrVHzcBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147431559675-u08ov51blgqqflhl8k02hfvifjebv7m0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "147431559675-98d3nqic6bkua7t71um73uh7ra342h9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rrs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+rootProject.name = 'RRS'
+include ':react-native-upi-pay'
+project(':react-native-upi-pay').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-upi-pay/android')
+include ':react-native-upi'
+project(':react-native-upi').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-upi/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
+include ':react-native-vector-icons'
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')
+
